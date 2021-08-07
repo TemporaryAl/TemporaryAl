@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in perhaps coding a thing or two during my life as a side hobby, but nothing serious.
 
-- 🌱 I’m currently learning how to even use this platform, lmao.
+- 🌱 I’m currently learning how to even use Visual Studio without hurting myself, lmao.
 
 
 
